@@ -1,7 +1,7 @@
 # Huge-Numbers-Calculator
 A large number calculator with currently only the exponentiation function. Can process huge calculations like 89218738^938742389^93274283479 and much higher numbers.
 
-![alt text](https://github.com/PreciousWarrior/Huge-Numbers-Calculator/Images/example.png)
+![alt text](https://github.com/PreciousWarrior/Huge-Numbers-Calculator/blob/main/Images/example.png)
 
 # How to install
 Make sure you have python 3.x interpreter installed on your system, download the python file from GitHub, then run it by `python3 largeexpos.py`.
